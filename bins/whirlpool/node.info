@@ -1,0 +1,11 @@
+{
+  "node_id": "ff90da3e-918d-41cb-9a8a-4b7b15f35f89",
+  "cluster": {
+    "id": "bf36e9dd-16a9-4d13-8380-219ac8ee1c12",
+    "dns_names": [],
+    "manager": "ff90da3e-918d-41cb-9a8a-4b7b15f35f89",
+    "members": [
+      "ff90da3e-918d-41cb-9a8a-4b7b15f35f89"
+    ]
+  }
+}
