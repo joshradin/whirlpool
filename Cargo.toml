@@ -1,5 +1,6 @@
 [workspace]
 members = ["libs/*", "bins/*"]
 
-[workpace.package]
+[workspace.package]
 authors = ["joshua radin <jradin16@gmail.com>"]
+license-file = "LICENSE"
